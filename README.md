@@ -172,6 +172,7 @@ Showcase of projects that are using Tonal:
 - [Chordify](https://ashleymays.github.io/Chordify) by [ashleymays](https://github.com/ashleymays)
 - [Chordal](https://chordal.vercel.app) by [kad1kad](https://github.com/kad1kad)
 - [muted.io](https://muted.io/) by [thisisseb](https://github.com/thisisseb)
+- [tablator](http://tablator.herokuapp.com/) by [maikully](https://github.com/maikully)
 
 Thank you all!
 
